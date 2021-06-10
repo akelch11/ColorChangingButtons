@@ -1,0 +1,30 @@
+
+body {
+  font-family: system-ui;
+  background: #a0a0a0;
+  color: red;
+  text-align: center; 
+}
+
+h1 {
+font-size: 40px;
+}
+
+p { 
+ font-size: 20px;
+}
+
+
+.format {
+  padding: 10px 20px 10px 20px;
+  margin: 10px 20px 10px 20px;
+}
+
+h4 {
+  font-size: 15px;
+  color: black !important;
+}
+
+ul {
+  list-style: none;
+}
